@@ -1,4 +1,4 @@
 class Config:
-    SECRET_KEY = 'jjjijiijmijmimjijmijmmjijimjijijmi'
+    SECRET_KEY = 'your-secret-key'
     STRIPE_TEST_PUBLIC_KEY = 'pk_test_51PirgV071Ro3JuwZH6SWRyy6Q4PBIyyMutQAATkxlOJbQM8Zwezl4lEULMS5bE45JWTbONmMo7FOHxbX4ONPW03000XMkIz80r'
     STRIPE_TEST_SECRET_KEY = 'sk_test_51PirgV071Ro3JuwZfVH3FCSR8szilZ889e3uqNhPvxlWMGb3okEwGsEioDeTdg8ccsHqIzFYfBtiEGfPrYyf6Dx500hIAfh1bQ'
